@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sadad</h1> <h1> A student of Cybersecurity/Networking/Programing </h1>
+<h1>Hi, I'm Sadad</h1> <h1> A student of Cybersecurity/Networking/Programming </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
