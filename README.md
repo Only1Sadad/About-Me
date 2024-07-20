@@ -1,12 +1,9 @@
-<h1>Hi, I'm Sadad</h1> <h1> A student of Cybersecurity/Networking/Programming </h1>
+<h1>Hi, I'm Sadad</h1> <h1> A student of Computer Science major</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b></b>
-  
-<h2>🗄️ Certifications</h2>
-
-- [ Google Cybersecurity Certification ]
+ 
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
