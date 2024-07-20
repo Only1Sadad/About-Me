@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sadad</h1> <h1> A student of Computer Science major</h1>
+<h1>Hi, I'm Sadad</h1> <h1> A Computer Science Major</h1>
 
 <h2>👨‍💻 Projects:</h2>
 
